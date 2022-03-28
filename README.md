@@ -9,4 +9,8 @@ https://cafe.naver.com/refurbishfactory/216983
 KT 참고
 https://cafe.naver.com/refurbishfactory/217254
 
-현재 듀얼심 활성화는 문제 있음
+현재 듀얼심 활성화는 문제 있음. 
+
+Sub....
+파일 적은 것 부터 적용
+  
