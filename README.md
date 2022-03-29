@@ -14,3 +14,7 @@ https://cafe.naver.com/refurbishfactory/217254
 Sub....
 파일 적은 것 부터 적용
   
+
+  
+
+sk lg 듀얼 적용
